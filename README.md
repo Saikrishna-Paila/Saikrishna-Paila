@@ -14,9 +14,9 @@
 
 <p align="left"> <a href="https://twitter.com/saikris92942449" target="blank"><img src="https://img.shields.io/twitter/follow/saikris92942449?logo=twitter&style=for-the-badge" alt="saikris92942449" /></a> </p>
 
-- 🔭 I’m currently working on [Apple_Stock_predication](https://github.com/Saikrishna-Paila/Apple_stock_predication_using_LSTM-GRU-ARIMA)
+- 🔭 I’m currently working on [Legal_Document_Analysis_using_LLM](https://github.com/Saikrishna-Paila/Legal_Document_Analysis_using_LLM)
 
-- 🌱 I’m currently learning **Data visualisation, Cloud Computing,Machine learning**
+- 🌱 I’m currently learning **Data visualisation, Cloud Computing, Machine learning, Linux for Devops, and Natural language Processing**
 
 - 👨‍💻 All of my projects are available at [https://saikrishnapaila.com](https://saikrishnapaila.com)
 
