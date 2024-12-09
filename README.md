@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Legal_Document_Analysis_using_LLM](https://github.com/Saikrishna-Paila/Legal_Document_Analysis_using_LLM)
 
-- 🌱 I’m currently learning **Data visualisation, Cloud Computing, Machine learning, Linux for Devops, and Natural language Processing**
+- 🌱 I’m currently learning **Cloud Computing, Machine learning, Linux for Devops, and Natural language Processing**
 
 - 👨‍💻 All of my projects are available at [https://saikrishnapaila.com](https://saikrishnapaila.com)
 
