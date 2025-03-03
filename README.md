@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saikrishna Paila</h1>
 
 <p align="center">
-  <img src="https://github.com/Saikrishna-Paila/Saikrishna-Paila/blob/main/Saikrishna_Banner1.png", alt="Saikrishna Banner" />
+  <img src="https://github.com/Saikrishna-Paila/Saikrishna-Paila/blob/main/Saikrishna_Banner2.png", alt="Saikrishna Banner" />
 </p>
 
-<h3 align="center">Accomplished data science professional with a Master's degree in Data Science from The George Washington University. Experienced in predictive modeling, machine learning, and natural language processing, with proficiency in Python, R, SQL, and Tableau. Demonstrated expertise in credit card churn analysis, supply chain management efficiency, and stock market predictions, utilizing advanced techniques like LSTM, XGBoost, and ensemble methods. Adept at developing robust data visualizations and employing feature engineering for improved model accuracy. Proven ability to handle large datasets, conduct geospatial and statistical analyses, and create interactive dashboards. A collaborative team player with strong problem-solving skills, dedicated to driving strategic decision-making through insightful data analysis.</h3>
+<h3 align="center">Data Science and AI professional with experience in machine learning, natural language processing (NLP), and AI-driven analytics. Currently working as a Capstone Fellow at the World Bank, where I develop AI-powered legal research systems using Legal-BERT, Retrieval-Augmented Generation (RAG), and OCR technologies to enhance document accessibility and streamline legal research. I also serve as a Graduate Instructional Assistant at The George Washington University, mentoring students in data visualization, machine learning workflows, and scalable analytics using Python, R, SQL, and Tableau.</h3>
 
 
 
