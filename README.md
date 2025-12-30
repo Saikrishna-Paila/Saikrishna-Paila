@@ -63,22 +63,6 @@ ML/DL Frameworks: TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Saikrishna-Paila&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saikrishna-Paila&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna-Paila&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
-
-</div>
-
----
 
 ## 🏆 Key Projects
 
@@ -151,3 +135,4 @@ RAG pipeline for 10K biomedical documents with 40% retrieval speed improvement.
 **Looking for full-time roles where I can keep learning, building, and collaborating on meaningful AI projects.**
 
 </div>
+
