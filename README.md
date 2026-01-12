@@ -1,8 +1,26 @@
-# Hey there! 👋 I'm Saikrishna Paila
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3C9EE5&center=true&vCenter=true&width=600&lines=Founding+AI+Engineer+%40+Avenio;GenAI+%26+LLMs+Specialist;Agentic+%26+RAG+Systems+Expert;MS+Data+Science%2C+GWU+'25)](https://git.io/typing-svg)
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saikrishna%20Paila&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founding%20AI%20Engineer%20%7C%20GenAI%20%26%20LLMs%20%7C%20RAG%20Systems&descAlignY=52&descSize=18"/>
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3C9EE5&center=true&vCenter=true&width=600&lines=Building+AI+Systems+That+Matter;Agentic+AI+%26+Multi-Agent+Orchestration;Production+RAG+Pipelines+at+Scale;From+Prototype+to+Production)](https://git.io/typing-svg)
+
+<!-- Profile Badges -->
+<p>
+  <a href="https://linkedin.com/in/sai-krishna-paila"><img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:saikrishnapaila15@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://saikrishnapaila.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Saikrishna-Paila&style=for-the-badge&color=3C9EE5"/>
+</p>
+
+<!-- Quick Stats -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GPA-3.97%2F4.0-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazon-aws"/>
+</p>
 
 </div>
 
