@@ -67,22 +67,48 @@ ML/DL Frameworks: TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost
 
 ## 🏆 Key Projects
 
-### **🔍 SearchRank AI: Neural Search & Ranking System**
-Intelligent search system with neural ranking using BERT for semantic search and learning-to-rank algorithms.
-- **Tech**: PyTorch, BERT, FAISS, Learning-to-Rank
-- **Impact**: Production-ready neural search engine for personalized retrieval
+### **🔍 AI Code Review SDK** *(Jan 2026)*
+Python SDK for AI-powered code review automation with intelligent suggestions and best practices enforcement.
+- **Tech**: Python, OpenAI, AST Parsing, CLI Tools
+- **Impact**: Automated code quality checks and review workflows
+- [GitHub](https://github.com/Saikrishna-Paila/paila-ai-code-review-sdk)
 
-### **✈️ NeXT Mission: AI-Powered Veteran Support**
+### **🤖 Autonomous Research Agent** *(Jan 2026)*
+End-to-end agentic workflow with multi-step task orchestration for autonomous research and information synthesis.
+- **Tech**: Python, LangChain, OpenAI, Prompt Patterns, Fallbacks
+- **Impact**: Autonomous reasoning and dynamic response generation
+- [GitHub](https://github.com/Saikrishna-Paila/autonomous-research-agent)
+
+### **💰 Finance Advisor Agent** *(Dec 2025)*
+AI-powered financial advisory agent providing personalized investment insights and portfolio recommendations.
+- **Tech**: Python, LangChain, OpenAI, Yahoo Finance API
+- **Impact**: Real-time financial analysis and automated advice generation
+- [GitHub](https://github.com/Saikrishna-Paila/finance-advisor-agent)
+
+### **🏥 MediVoice: Real-Time Medical Voice Assistant** *(Nov 2025)*
+Patient-oriented clinical conversation system with sub-second latency for healthcare interactions.
+- **Tech**: Deepgram STT, Groq Llama 3.3 70B, ElevenLabs TTS, Python
+- **Impact**: Clinical safety with prompt guards and fallbacks
+- [GitHub](https://github.com/Saikrishna-Paila/medivoice-realtime)
+
+### **🧬 BioGraphRAG: Knowledge Graph AI System** *(Oct 2025)*
+Knowledge graph retrieval system transforming unstructured documents into queryable knowledge bases.
+- **Tech**: Neo4j, LangChain, Python, Graph RAG
+- **Impact**: 12+ entity types with semantic retrieval across biomedical datasets
+- [GitHub](https://github.com/Saikrishna-Paila/BioGraphRAG)
+
+### **✈️ NeXT Mission: AI-Powered Veteran Support** *(Jun 2025)*
 AI assistant helping U.S. veterans transition to civilian life with resume building, job matching, and mentor discovery.
-- **Tech**: Meta LLaMA 4, RAG, Next.js, MongoDB, AWS
+- **Tech**: Meta LLaMA 4, RAG, Next.js, Django, MongoDB, AWS
 - **Achievement**: Runner-up, Meta AI Track @ AI+ Expo Hackathon
+- [GitHub](https://github.com/Saikrishna-Paila/NeXTMission)
 
-### **⚖️ Legal Document Analysis (World Bank)**
+### **⚖️ Legal Document Analysis (World Bank)** *(Jan-May 2025)*
 Multilingual GenAI assistant for African law, making 478+ legal documents searchable in local languages.
 - **Tech**: LangChain, Pinecone, Llama3, OCR, GCP
 - **Impact**: 90% accuracy on legal queries, 3.2s latency
 
-### **🧬 Biomedical Research Assistant (Avenio)**
+### **🧬 Biomedical Research Assistant (Avenio)** *(Apr 2025 - Present)*
 RAG pipeline for 10K biomedical documents with 40% retrieval speed improvement.
 - **Tech**: LangChain, Qdrant, PostgreSQL PGVector, Docker, Kubernetes
 - **Impact**: Processing 100K queries at 4s latency, 99.9% uptime
