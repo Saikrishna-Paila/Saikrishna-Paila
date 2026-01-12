@@ -8,18 +8,19 @@
 
 ---
 
-## 🚀 About Me
+  ## 🚀 About Me
 
-**Data scientist by training, an AI engineer by impact.**
+  **Data scientist by training, an AI engineer by impact.**
 
-I'm an AI and Data Science Engineer who loves turning complex ideas into real, usable solutions. I've worked across **legal, biomedical, and education spaces**, building systems powered by **large language models** and **retrieval-augmented generation** that help people make smarter decisions.
+  I'm an AI and Data Science Engineer who loves turning complex ideas into real, usable solutions. I've worked across **legal, biomedical, and education spaces**, building systems powered by **large language models** and **retrieval-augmented generation** that help people make smarter decisions.
 
-- 🔭 Currently: **Founding AI Engineer @ Avenio Corporation**
-- 🎓 Education: **MS in Data Science** from George Washington University (GPA: 3.97)
-- 🌱 Expertise: GenAI, LLMs, RAG Systems, Agentic AI, Multi-Agent Orchestration
-- 💼 Previously: **AI Engineer @ World Bank** | **Graduate TA @ GWU**
-- 🏆 Recent: **Runner-up, Meta AI Track** – SCSP AI+ Expo Hackathon
-- 📜 Certified: **AWS Certified Cloud Practitioner**
+  - 🔭 Currently: **Founding AI Engineer @ Avenio Corporation**
+  - 🎓 Education: **MS in Data Science** from George Washington University (GPA: 3.97)
+  - 🌱 Expertise: GenAI, LLMs, RAG Systems, Agentic AI, Multi-Agent Orchestration
+  - 💼 Previously: **AI Engineer @ World Bank** | **ML Engineer @ Cognizant** | **Graduate TA @ GWU**
+  - 🏆 Recent: **Runner-up, Meta AI Track** – SCSP AI+ Expo Hackathon
+  - 📜 Certified: **AWS Certified Cloud Practitioner**
+
 
 ---
 
@@ -135,4 +136,5 @@ RAG pipeline for 10K biomedical documents with 40% retrieval speed improvement.
 **Looking for full-time roles where I can keep learning, building, and collaborating on meaningful AI projects.**
 
 </div>
+
 
