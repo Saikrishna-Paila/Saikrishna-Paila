@@ -132,11 +132,12 @@ AI assistant for U.S. veterans transitioning to civilian life.
 
 <div align="center">
 
-![Saikrishna's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saikrishna-Paila&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<a href="https://github.com/Saikrishna-Paila">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saikrishna-Paila&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna-Paila&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Saikrishna-Paila&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Saikrishna-Paila&theme=tokyonight&hide_border=true&background=0D1117)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saikrishna-Paila&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
