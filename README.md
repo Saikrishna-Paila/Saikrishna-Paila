@@ -135,39 +135,79 @@ RAG pipeline for 10K biomedical documents with 40% retrieval speed improvement.
 
 ## 💼 Professional Experience
 
-**🚀 Founding Software & AI Engineer** | Avenio Corporation | *Apr 2025 - Present*
-- Architected RAG pipeline improving retrieval speed 40% for 10K biomedical documents
-- Built persona-driven AI agents processing 100K queries at 4s latency
-- Implemented prompt versioning and evaluation hooks, reducing hallucinations
+<table>
+<tr>
+<td width="50%">
 
-**🌍 AI Engineer (Capstone Fellow)** | World Bank Group | *Jan 2025 - May 2025*
-- Developed multilingual GenAI assistant achieving 90% accuracy on legal queries
-- Built ETL pipelines for 478+ documents using OCR and NLP
-- Deployed on GCP with 3.2s latency while ensuring privacy compliance
+**🚀 Founding AI Engineer**
+*Avenio Corporation* | Apr 2025 - Present
+- RAG pipeline for 10K+ biomedical documents
+- 100K queries at 4s latency, 99.9% uptime
+- Prompt versioning & evaluation frameworks
 
-**🎓 Graduate Data Science Assistant** | George Washington University | *Aug 2024 - May 2025*
-- Mentored 13 student teams in ML pipelines for classification, NLP, and forecasting
-- Supported prompt engineering, fine-tuning, and containerized deployments
+</td>
+<td width="50%">
+
+**🌍 AI Engineer (Capstone Fellow)**
+*World Bank Group* | Jan - May 2025
+- Multilingual GenAI: 90% accuracy, 3.2s latency
+- ETL pipelines for 478+ legal documents
+- GCP deployment with privacy compliance
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎓 Graduate Data Science Assistant**
+*George Washington University* | Aug 2024 - May 2025
+- Mentored 13 teams on ML pipelines
+- Prompt engineering & LLM fine-tuning research
+
+</td>
+<td width="50%">
+
+**🤖 Machine Learning Engineer**
+*Cognizant Technology Solutions* | Dec 2021 - Jun 2023
+- Enterprise ML pipelines for global clients
+- Classification & NLP models (PyTorch, TensorFlow)
+- Flask APIs for real-time model serving
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📫 Let's Connect!
 
-<p align="left">
-  <a href="https://linkedin.com/in/sai-krishna-paila"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saikrishna.paila@gwmail.gwu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://saikrishnapaila.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://github.com/Saikrishna-Paila"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
+
+<a href="https://linkedin.com/in/sai-krishna-paila"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:saikrishnapaila15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://saikrishnapaila.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
+<a href="https://github.com/Saikrishna-Paila"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
 
 ---
 
-## 🌟 Profile Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Saikrishna-Paila&label=Profile%20Views&color=0891b2&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Saikrishna-Paila?label=Followers&style=for-the-badge&logo=github&color=0891b2)
+<!-- GitHub Stats Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saikrishna-Paila&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3C9EE5&icon_color=3C9EE5&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna-Paila&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3C9EE5&text_color=FFFFFF"/>
+
+<!-- GitHub Streak -->
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saikrishna-Paila&theme=tokyonight&hide_border=true&background=0D1117&stroke=3C9EE5&ring=3C9EE5&fire=FF6B6B&currStreakLabel=3C9EE5"/>
+
+<!-- Activity Graph -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saikrishna-Paila&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3C9EE5&line=3C9EE5&point=FFFFFF"/>
+
+<!-- Trophies -->
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Saikrishna-Paila&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5"/>
 
 </div>
 
@@ -177,7 +217,10 @@ RAG pipeline for 10K biomedical documents with 40% retrieval speed improvement.
 
 ### 💡 *"I know how to take an idea, build a prototype, deploy it in the real world, and make sure it delivers value."*
 
-**Looking for full-time roles where I can keep learning, building, and collaborating on meaningful AI projects.**
+**🔥 Open to opportunities in AI Engineering, GenAI, and Agentic Systems**
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
 
