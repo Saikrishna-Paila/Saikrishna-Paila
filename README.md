@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saikrishna%20Paila&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founding%20AI%20Engineer%20|%20GenAI%20|%20RAG%20Systems&descAlignY=52&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3C9EE5,100:667eea&height=180&section=header&text=Saikrishna%20Paila&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founding%20AI%20Engineer%20|%20GenAI%20|%20RAG%20Systems&descAlignY=52&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3C9EE5&center=true&vCenter=true&width=600&lines=Building+AI+Systems+That+Matter;Agentic+AI+%26+Multi-Agent+Orchestration;Production+RAG+Pipelines+at+Scale;From+Prototype+to+Production)](https://git.io/typing-svg)
 
@@ -150,6 +150,6 @@ AI assistant for U.S. veterans transitioning to civilian life.
 
 **🔥 Open to opportunities in AI Engineering, GenAI, and Agentic Systems**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3C9EE5,100:667eea&height=100&section=footer)
 
 </div>
