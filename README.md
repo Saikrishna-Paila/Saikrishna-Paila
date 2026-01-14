@@ -111,6 +111,7 @@ AI assistant for U.S. veterans transitioning to civilian life.
 | 🚀 **Founding AI Engineer** | Avenio Corporation | Apr 2025 - Present | RAG pipeline for 10K+ docs, 100K queries at 4s latency |
 | 🌍 **AI Engineer (Fellow)** | World Bank Group | Jan - May 2025 | Multilingual GenAI, 90% accuracy, 3.2s latency |
 | 🎓 **Assistant Data Scientist** | George Washington University | Aug 2024 - May 2025 | Mentored 13 teams on ML pipelines |
+| 🔬 **Data Science Engineer Intern** | Amrita Vishwa Vidyapeetham | Dec 2022 - Jun 2023 | ETL pipelines, Tableau dashboards, Data Analysis |
 | 🤖 **Data Science Engineer** | Cognizant | Dec 2021 - Jun 2023 | Fraud Detection, NLP, ETL pipelines |
 
 ---
