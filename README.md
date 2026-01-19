@@ -112,7 +112,7 @@ AI assistant for U.S. veterans transitioning to civilian life.
 | 🌍 **AI Engineer (Fellow)** | World Bank Group | Jan - May 2025 | Multilingual GenAI, 90% accuracy, 3.2s latency |
 | 🎓 **Assistant Data Scientist** | George Washington University | Aug 2024 - May 2025 | Mentored 13 teams on ML pipelines |
 | 🔬 **Data Science Engineer Intern** | Amrita Vishwa Vidyapeetham | Dec 2022 - Jun 2023 | ETL pipelines, Tableau dashboards, Data Analysis |
-| 🤖 **Data Science Engineer** | Amrita| Dec 2022 - Jun 2023 | Fraud Detection, NLP, ETL pipelines |
+
 
 ---
 
@@ -154,4 +154,5 @@ AI assistant for U.S. veterans transitioning to civilian life.
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3C9EE5,100:667eea&height=100&section=footer)
 
 </div>
+
 
