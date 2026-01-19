@@ -29,7 +29,7 @@ I'm an AI and Data Science Engineer who loves turning complex ideas into real, u
 - 🔭 Currently: **Founding AI Engineer @ Avenio Corporation**
 - 🎓 Education: **MS in Data Science** from George Washington University (GPA: 3.97)
 - 🌱 Expertise: GenAI, LLMs, RAG Systems, Agentic AI, Multi-Agent Orchestration
-- 💼 Previously: **AI Engineer @ World Bank** | **Data Science Engineer @ Cognizant** | **Assistant Data Scientist @ GWU**
+- 💼 Previously: **AI Engineer @ World Bank** | **Data Science Engineer @ Amrita ** | **Assistant Data Scientist @ GWU**
 - 🏆 Recent: **Runner-up, Meta AI Track** – SCSP AI+ Expo Hackathon
 - 📜 Certified: **AWS Certified Cloud Practitioner**
 
@@ -112,7 +112,7 @@ AI assistant for U.S. veterans transitioning to civilian life.
 | 🌍 **AI Engineer (Fellow)** | World Bank Group | Jan - May 2025 | Multilingual GenAI, 90% accuracy, 3.2s latency |
 | 🎓 **Assistant Data Scientist** | George Washington University | Aug 2024 - May 2025 | Mentored 13 teams on ML pipelines |
 | 🔬 **Data Science Engineer Intern** | Amrita Vishwa Vidyapeetham | Dec 2022 - Jun 2023 | ETL pipelines, Tableau dashboards, Data Analysis |
-| 🤖 **Data Science Engineer** | Cognizant | Dec 2021 - Jun 2023 | Fraud Detection, NLP, ETL pipelines |
+| 🤖 **Data Science Engineer** | Amrita| Dec 2022 - Jun 2023 | Fraud Detection, NLP, ETL pipelines |
 
 ---
 
@@ -154,3 +154,4 @@ AI assistant for U.S. veterans transitioning to civilian life.
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3C9EE5,100:667eea&height=100&section=footer)
 
 </div>
+
